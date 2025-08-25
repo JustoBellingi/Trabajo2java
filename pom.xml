@@ -2,12 +2,20 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany</groupId>
+<<<<<<< HEAD
     <artifactId>Practica2facultad</artifactId>
+=======
+    <artifactId>practica2</artifactId>
+>>>>>>> 5394d54c54453ce73a80142ac730bf749ab73469
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>24</maven.compiler.release>
+<<<<<<< HEAD
         <exec.mainClass>com.mycompany.practica2facultad.Practica2facultad</exec.mainClass>
+=======
+        <exec.mainClass>com.mycompany.practica2.Practica2</exec.mainClass>
+>>>>>>> 5394d54c54453ce73a80142ac730bf749ab73469
     </properties>
 </project>
